@@ -8,11 +8,11 @@ For this project, we have edited the code we have been working on to run more ef
 ## Results
 Upon refactoring the code, we ran it for the 2017 year and then ran it again for the 2018 year. 
 The refactored code ran for .2460938 seconds for the 2017 year and all stocks reported a positive return expect TERP which reported a negative yearly return of -7.2%.
-![2017Image](Stock_Analysis/VBA_Challenge_2017.png)
+![2017Image](smithsh14/Stock_Analysis/VBA_Challenge_2017.png)
 
 The code refactored code ran for .21875 seconds for the 2018 year and all stocks reported a negative return exceot for ENPH (which reported a positive 81.9% return) and RUN (which reported a positive 84.0% return).
 With the orginial code, the analysis for 2017 ran for 1.375 seconds while the 2018 code ran for 1.370194 seconds.
-![2018Image](Stock_Analysis/VBA_Challenge_2018.png)
+![2018Image](smithsh14/Stock_Analysis/VBA_Challenge_2018.png)
 ## Summary
 Refactoring/Editing Code
 ### What are the advantages and disadvantages of refactoring code?
