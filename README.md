@@ -13,7 +13,9 @@ The refactored code ran for .2460938 seconds for the 2017 year and all stocks re
 
 The code refactored code ran for .21875 seconds for the 2018 year and all stocks reported a negative return exceot for ENPH (which reported a positive 81.9% return) and RUN (which reported a positive 84.0% return).
 With the orginial code, the analysis for 2017 ran for 1.375 seconds while the 2018 code ran for 1.370194 seconds.
-![2018Image](images/VBA_Challenge_2018.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/101153028/159174827-1f29a49f-4d84-4b50-a46a-00493e8c8d8a.png)
+
 ## Summary
 Refactoring/Editing Code
 ### What are the advantages and disadvantages of refactoring code?
